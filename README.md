@@ -76,4 +76,4 @@ Telegram бот для отслеживания статуса Minecraft сер�
 ## Поддержка
 
 По всем вопросам обращайтесь:
-- funpay - https://funpay.com/users/2551770/
+- {funpay](https://funpay.com/users/2551770/) or [github](https://github.com/Palitraq/MinecraftServerStatus/issues)
